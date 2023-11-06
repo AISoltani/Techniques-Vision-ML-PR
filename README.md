@@ -3280,7 +3280,6 @@ Image registration is the process of registering one or more images onto another
   31.38. [Multi-Step-Deformable-Registration](https://github.com/mpapadomanolaki/Multi-Step-Deformable-Registration) -> code for 2021 paper: Unsupervised Multi-Step Deformable Registration of Remote Sensing Imagery based on Deep Learning
 
   31.39. [Siamese_ShiftNet](https://github.com/simon-donike/Siamese_ShiftNet) -> NN predicting spatial coregistration shift of remote sensing imagery. Adapted from HighRes-net
-
 #
 ## 32. Terrain mapping, Disparity Estimation, Lidar, DEMs & NeRF
 
