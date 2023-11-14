@@ -241,7 +241,6 @@ Classification is a fundamental task in remote sensing data analysis, where the 
    1.75. [Estimating coal power plant operation from satellite images with computer vision](https://transitionzero.medium.com/estimating-coal-power-plant-operation-from-satellite-images-with-computer-vision-b966af56919e) -> use Sentinel 2 data to identify if a coal power plant is on or off, with dataset and repo
 
    1.76. [Building-detection-and-roof-type-recognition](https://github.com/loosgagnet/Building-detection-and-roof-type-recognition) -> A CNN-Based Approach for Automatic Building Detection and Recognition of Roof Types Using a Single Aerial Image
-
 # 
 ### 2. Segmentation
 
