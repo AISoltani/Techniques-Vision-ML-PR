@@ -35,7 +35,6 @@ Orbuculum's potential extends far beyond the reinvention of the GIS/EO research 
 **How to use this repository:** if you know exactly what you are looking for (e.g. you have the paper name) you can `Control+F` to search for it in this page. **Note** `BEGINNER` is used to identify material that is suitable for begginers & getting started with a topic
 
 ## Techniques
-
  1. [Classification](https://github.com/satellite-image-deep-learning/techniques#1-classification)
  1. [Segmentation](https://github.com/satellite-image-deep-learning/techniques#2-segmentation)
  1. [Instance segmentation](https://github.com/satellite-image-deep-learning/techniques#3-instance-segmentation)
