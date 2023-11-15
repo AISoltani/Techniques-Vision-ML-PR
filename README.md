@@ -32,9 +32,7 @@ Orbuculum's potential extends far beyond the reinvention of the GIS/EO research 
 <!-- markdown-link-check-disable -->
 * 🐦 [Orbuculum Twitter](https://twitter.com/Orbuculum_xyz)
 <!-- markdown-link-check-enable -->
-
 #
-
 **How to use this repository:** if you know exactly what you are looking for (e.g. you have the paper name) you can `Control+F` to search for it in this page. **Note** `BEGINNER` is used to identify material that is suitable for begginers & getting started with a topic
 
 ## Techniques
