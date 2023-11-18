@@ -72,7 +72,7 @@ Orbuculum's potential extends far beyond the reinvention of the GIS/EO research 
  21. [Synthetic data](https://github.com/satellite-image-deep-learning/techniques#37-synthetic-data)
  22. [ChatGPT and other language models (LLMs)](https://github.com/satellite-image-deep-learning/techniques#38-chatgpt-and-other-language-models-llms)
 
-#
+
 ### 1. Classification
 
 <p align="center">
