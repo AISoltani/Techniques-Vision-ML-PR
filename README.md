@@ -10,6 +10,7 @@
 </div>
 ## Introduction
 Deep learning has transformed the way satellite and aerial images are analyzed and interpreted. These images pose unique challenges, such as large sizes and diverse object classes, which offer opportunities for deep learning researchers. This repository offers a comprehensive overview of various deep learning techniques for analyzing satellite and aerial imagery, including architectures, models, and algorithms for tasks such as classification, segmentation, and object detection. It serves as a valuable resource for researchers, practitioners, and anyone interested in the latest advances in deep learning and its impact on computer vision and remote sensing. This repository is proudly sponsored by Orboculum
+
 #
 <p align="center">
   <a href="http://orbuculum.xyz/">
