@@ -3484,7 +3484,6 @@ Normalized Difference Vegetation Index (NDVI) is an index used to measure the am
   35.8. [Awesome-Vegetation-Index](https://github.com/px39n/Awesome-Vegetation-Index)
 
   35.9. [Remote-Sensing-Indices-Derivation-Tool](https://github.com/rander38/Remote-Sensing-Indices-Derivation-Tool) -> Calculate spectral remote sensing indices from satellite imagery
-
 #
 ## 36. General image quality
 
@@ -3525,7 +3524,6 @@ Image quality describes the degree of accuracy with which an image can represent
   36.17. [lvrnet](https://github.com/Achleshwar/lvrnet) -> Lightweight Image Restoration for Aerial Images under Low Visibility
 
   36.18. [DOTA-C](https://github.com/hehaodong530/DOTA-C) -> evaluating the robustness of object detection models to 19 types of image quality degradation
-
 #
 ## 37. Synthetic data
 
