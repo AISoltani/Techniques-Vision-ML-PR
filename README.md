@@ -11,6 +11,7 @@
 ## Introduction
 Deep learning has transformed the way satellite and aerial images are analyzed and interpreted. These images pose unique challenges, such as large sizes and diverse object classes, which offer opportunities for deep learning researchers. This repository offers a comprehensive overview of various deep learning techniques for analyzing satellite and aerial imagery, including architectures, models, and algorithms for tasks such as classification, segmentation, and object detection. It serves as a valuable resource for researchers, practitioners, and anyone interested in the latest advances in deep learning and its impact on computer vision and remote sensing. This repository is proudly sponsored by Orboculum
 #
+
 <p align="center">
   <a href="http://orbuculum.xyz/">
     <img src="sponsor-logo.png" width="800">
@@ -71,7 +72,6 @@ Orbuculum's potential extends far beyond the reinvention of the GIS/EO research 
  20. [General image quality](https://github.com/satellite-image-deep-learning/techniques#36-general-image-quality)
  21. [Synthetic data](https://github.com/satellite-image-deep-learning/techniques#37-synthetic-data)
  22. [ChatGPT and other language models (LLMs)](https://github.com/satellite-image-deep-learning/techniques#38-chatgpt-and-other-language-models-llms)
-
 
 ### 1. Classification
 
